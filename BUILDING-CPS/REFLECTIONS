@@ -76,7 +76,7 @@ Based on the article: https://www.bbc.com/news/technology-45809919
 
 Introduction (The Problem):
   WHO
-    Amazon Company, Females appplicants, article by Reuters originally and this article written by BBC with internal whistleblowers/ engineers who didnt want to be identified.
+    Amazon Company, Females/Male appplicants, article by Reuters originally and this article written by BBC with internal whistleblowers/ engineers who didnt want to be identified.
   WHAT
     Amazon company using a poorly trained model based upon 10yrs of data which included hirings of mostly male applicants within the company. 
     This produced a bias in the hiring data which meant that women were seen as less favourable applicants in comparison to men.
@@ -95,11 +95,15 @@ CONFUSION MATRIX:
 | **Actual Negative**    | (False Positive)  HIRED BUT NOT WORTH HIRING   | (True Negative) NOT WORTH HIRING            |
 
 
-Analysis
+Analysis:
+  How was it trained:
+  What kind of model:
+  Evaluation metrics:
+  Bias involved:
 
+  Why we found it to be unfair: 
 
-
-Conclusion 
+Conclusion:
 
 
 1 build confusion matric for your problem
