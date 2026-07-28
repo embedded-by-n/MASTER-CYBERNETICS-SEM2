@@ -7,7 +7,18 @@ in ML classification: Precision, Recall, F-Scores, Accuracy, etc.
   Measuring errors: Confusion Matrix e.g. (multi-class classification) 
         such as CIFAR dataset or MNIST dataset.
   Precision and Recall: Calculations of recall and precision = accuracy
+
+# The sad part of this to me is that even if there are accuracy errors etc. people who have less money and resources will be disproportionately impacted by the degreee of accuracy in these models especially at the free level of AI.
+# Sometimes these AI can end up being bad in practice because what they are trained on are still very different to the real world.
+
   Evaluation metrics: Are task dependent, class number dependent and balanced/vs imbalanced classes.
       Precision, Recall, F1, Accuracy, ROC/AUC, Log loss, Jaccard index,
       Gini coefficient, Kolomogorov Smirnov, ROUGE, SIRI, BLEU, etc.
+
+Fairness:
+THE PROLIFERATION OF FAIRNESS DEFINITIONS ARE TO BE CELEBRATED!
+21 Fairness definitions and their politics:  https://fairmlbook.org/tutorial2.html
+  Measuring Fairness:
+    Fairness evaluation metrics: e.g. demographic parity/equal opportunity/ equal accuracy etc.
+
 
