@@ -30,6 +30,10 @@ This allows for a feedback looping interface that functions as such:
       5. Used to trian a model to adjust the baselines averages of actuation thresholds in the watch over time (like the weighted actuation changes in the Pear Pie machine learning) Maybe can reuse the code??
       6. Could also potentially allow the user to choose if they wish to contribute this annonomised information back to an open-source data set for use by other open source tools that will collect biometric data and help to build open-source tools?
 
+This is not a fully accurate feedback diagram but I just had chatgpt produce it for me based upon my following prompt:
+" draw a feedback loop diagram that include the following components: this is also for my cpy project with a group/ basically the design needs to sense a change in the sensors on the person which promts the light/vibe respinse ont he wrist interface. which helps prompt user to give an input to the system. press the related button the user does i mean e.g. buttons are chosen to match the desired symptomatic cluster chosen that correlates with sensor funcitons or not at all with the user self report of ones that cant be or are too hard to match. the person can also choose to press this voluntarily themselves. which gives the system a referential point to help scope the sensor sensitvity and the averages of the individual. logs the information to give the user a personalised longitudinal reference for themselves for self valifdation and to show medical professionals."
+
+<img width="1448" height="1086" alt="Group_CPS_First_Feedback_Loop_ChatGPT_Visualisation" src="https://github.com/user-attachments/assets/2ce0086d-8ae8-43f9-8a0e-42121699fbdb" />
 
 
       
