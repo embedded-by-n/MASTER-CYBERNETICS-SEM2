@@ -58,7 +58,7 @@ BIAS:
     - since 70s in France,
 PERCEPTUAL BIAS CAUSED BY PAREIDOLIA
 THERE ARE MANY MORE KINDS OF BIAS:
-  Systematic bias
+• Systematic bias
 • Automation bias
 • Coverage bias
 • Experimenter's bias
@@ -73,6 +73,11 @@ THERE ARE MANY MORE KINDS OF BIAS:
 The BIG Paper:
 
 Introduction (Problem)
+| **Actual \ Predicted** | **Predicted Positive**                         | **Predicted Negative**                      |
+|------------------------|:----------------------------------------------:|:-------------------------------------------:|
+| **Actual Positive**    | (True Positive)  WORTH HIRING                  | (False Positive) NOT WORTH HIRING BUT HIRED |
+| **Actual Negative**    | (False Positive)  HIRED BUT NOT WORTH HIRING   | (True Negative) NOT WORTH HIRING            |
+
 
 Analysis
 Conclusion 
