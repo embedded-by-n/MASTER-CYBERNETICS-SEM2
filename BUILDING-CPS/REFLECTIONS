@@ -6,19 +6,33 @@ Measuring Performance:
 in ML classification: Precision, Recall, F-Scores, Accuracy, etc.
   Measuring errors: Confusion Matrix e.g. (multi-class classification) 
         such as CIFAR dataset or MNIST dataset.
-  Precision and Recall: Calculations of recall and precision = accuracy
+
+  Precision and Recall: Calculations of recall and precision = accuracy (calculations)
 
 # The sad part of this to me is that even if there are accuracy errors etc. people who have less money and resources will be disproportionately impacted by the degreee of accuracy in these models especially at the free level of AI.
 # Sometimes these AI can end up being bad in practice because what they are trained on are still very different to the real world.
+# training the right model for the right purpose is extremely important, it must be tailored toward your work.
 
-  Evaluation metrics: Are task dependent, class number dependent and balanced/vs imbalanced classes.
-      Precision, Recall, F1, Accuracy, ROC/AUC, Log loss, Jaccard index,
-      Gini coefficient, Kolomogorov Smirnov, ROUGE, SIRI, BLEU, etc.
+  Evaluation metrics: 
+    Are task dependent: image classification/ text summarisation etc. 
+    class number dependent e.g. binary or multi-class classification
+    balanced/vs imbalanced classes: datasets with uneven number of examples in each class e,g, email spam/fraud detection.
+        What is happening behind the scenes of these models: (Precision, Recall, F1, Accuracy, ROC/AUC, Log loss, Jaccard index,
+        Gini coefficient, Kolomogorov Smirnov, ROUGE, SIRI, BLEU, etc.)
+
+# look at the metric and make it match to the metric of classification needed 
+# machine learning packages in python exist already so we dont have to code this ourselves. 
 
 Fairness:
 THE PROLIFERATION OF FAIRNESS DEFINITIONS ARE TO BE CELEBRATED!
 21 Fairness definitions and their politics:  https://fairmlbook.org/tutorial2.html
   Measuring Fairness:
-    Fairness evaluation metrics: e.g. demographic parity/equal opportunity/ equal accuracy etc.
+    Fairness evaluation metrics: e.g. 
+      demographic parity
+        
+      equal opportunity
+
+      equal accuracy etc.
+
 
 
