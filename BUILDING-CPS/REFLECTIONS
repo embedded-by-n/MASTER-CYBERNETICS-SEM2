@@ -72,7 +72,23 @@ THERE ARE MANY MORE KINDS OF BIAS:
 
 The BIG Paper:
 
-Introduction (Problem)
+Based on the article: https://www.bbc.com/news/technology-45809919
+
+Introduction (The Problem):
+  WHO
+    Amazon Company, Females appplicants, article by Reuters originally and this article written by BBC with internal whistleblowers/ engineers who didnt want to be identified.
+  WHAT
+    Amazon company using a poorly trained model based upon 10yrs of data which included hirings of mostly male applicants within the company. 
+    This produced a bias in the hiring data which meant that women were seen as less favourable applicants in comparison to men.
+  WHEN
+    2014 - 2015
+  WHERE
+    Global hiring practices but I believe based in US
+  WHY 
+    
+
+CONFUSION MATRIX: 
+
 | **Actual \ Predicted** | **Predicted Positive**                         | **Predicted Negative**                      |
 |------------------------|:----------------------------------------------:|:-------------------------------------------:|
 | **Actual Positive**    | (True Positive)  WORTH HIRING                  | (False Positive) NOT WORTH HIRING BUT HIRED |
@@ -80,6 +96,7 @@ Introduction (Problem)
 
 
 Analysis
+
 Conclusion 
 
 
