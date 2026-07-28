@@ -110,11 +110,15 @@ ANALYSIS
     
   
   How was it trained:
+
   What kind of model:
-  Evaluation metrics:
+
+  Evaluation metrics (What performance metrics used in my evaluation/used by the designers):
+
   Bias involved:
   
-  Why we found it to be unfair: 
+  Why we found it to be unfair (use fairness tools):
+# bias is important to analyse first as it allows us to help determine the fairness involved/lapses of fairness.
 
 CONCLUSION:
 
