@@ -1,1 +1,13 @@
+s2w1d2c1
+ML Formulation, Validation
+and Fairness and Analysis
+
+Measuring Performance:
+in ML classification: Precision, Recall, F-Scores, Accuracy, etc.
+  Measuring errors: Confusion Matrix e.g. (multi-class classification) 
+        such as CIFAR dataset or MNIST dataset.
+  Precision and Recall: Calculations of recall and precision = accuracy
+  Evaluation metrics: Are task dependent, class number dependent and balanced/vs imbalanced classes.
+      Precision, Recall, F1, Accuracy, ROC/AUC, Log loss, Jaccard index,
+      Gini coefficient, Kolomogorov Smirnov, ROUGE, SIRI, BLEU, etc.
 
