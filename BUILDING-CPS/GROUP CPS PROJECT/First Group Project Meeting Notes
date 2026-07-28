@@ -16,4 +16,17 @@ This allows for a feedback looping interface that functions as such:
       2. increasing potential for adherence to the desired behaviour AKA registering self-perceived symptomatic events in the body.
       3. The user will see the button light up, click the button if they agree, and then choose a button down the centre of the watch face rated from 1-5 on scale of the strength of that symptom. 
 
-4. This then allows the user to gather self-referrential 
+4. This then allows the user to gather self-referrential longitudinal data that can be provided to a medical professional of other allied health care provider.
+5. The systems records these points of information
+      1. The users sensor feedback
+      2. The contrast between the user feedback and the average feedback from these sensors.
+      3. The users self-reported input of validation of spikes in sensor behaviour in response to the sensor actuation.
+      4. The users self-reported input of symptomatic spikes without being a response to actuation by the system seeking a response to a spike. 
+6. This data can then be used to produce a data set that can be used in the following ways:
+      1. provided to a healthcare professional for increased agency in the self-reporting process when trying to gain support from a doctor.
+      2. to help the user see for themselves if there are trends in their self-identified symptoms, to increase self-validation of lived experience.
+      3. assist in supporting the doctor/patient with bridging the divide is experienced/perceived pain from the perspective of the patient/doctor.
+      4. Personalised training of an AI model. which could help the user to see their own biofeedback based on their personalised data alone. 
+      5. Used to trian a model to adjust the baselines averages of actuation thresholds in the watch over time (like the weighted actuation changes in the Pear Pie machine learning) Maybe can reuse the code??
+      6. 
+      
