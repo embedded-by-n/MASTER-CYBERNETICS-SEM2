@@ -1,0 +1,14 @@
+OVERARCHING IDEA:
+A device thate d generally helps an individual to collect data points on their own qualitative lived experience of being in their body. 
+A cyber-physical device that allows for the collection of personalised data from a: sensors and b: self-reported perception of experience via a hardware interface of buttons.
+
+CPS design notes:
+A watch like wrist/arm worn interface. 
+With hardware buttons that each cover a specific area of complaint/symptom. 
+These buttons also lights up. 
+
+This allows for a feedback looping interface that functions as such:
+
+1. Watch is loaded with sensor data allowing the device to compare averaged sensor baselines with the sensor feedback behaviour worn by the individual.
+2. When the sensors read spikes that correlate with the symptomatic avaraged feedback that is attributed with those symptoms the user wishes to track, the light for the corresponding symptom of the watch face lights up as a point of actuation.
+3. This serves two purposes 1. getting the attention of the user. 2. increasing potential for adherence to the desired behaviour
