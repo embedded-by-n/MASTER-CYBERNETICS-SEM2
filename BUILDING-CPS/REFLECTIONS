@@ -77,17 +77,21 @@ Amazon scrapped 'sexist AI' tool
 https://www.bbc.com/news/technology-45809919
 
 Introduction (The Problem):
+
   WHO
     Amazon Company, Females/Male appplicants, article by Reuters originally and this article written by BBC with internal whistleblowers/ engineers who didnt want to be identified.
-  WHAT
+  WHAT - describe in 4 sentences what the paper analyses
     Amazon company using a poorly trained model based upon 10yrs of data which included hirings of mostly male applicants within the company. 
     This produced a bias in the hiring data which meant that women were seen as less favourable applicants in comparison to men.
   WHEN
     2014 - 2015
   WHERE
     Global hiring practices but I believe based in US
-  WHY 
-    Amazon not using AI application best practice procedures to ensure fairness. 
+  WHY - 
+    Group motivation for the analysis:
+      Our motivation is to analyse the methodology used/flaws in procedures/and process involved in selecting and using this AI model, the outcome and avoidable consequences etc. 
+    Why this even occured that we are covering:
+      Amazon not using AI application best practice procedures to ensure fairness. 
 
 CONFUSION MATRIX: 
 
