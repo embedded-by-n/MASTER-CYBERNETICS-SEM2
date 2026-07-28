@@ -2,6 +2,10 @@ s2w1d2c1
 ML Formulation, Validation
 and Fairness and Analysis
 
+TAKEAWAYS:
+1. Do we have the right model?
+2. How do you make sure a model works equally well for different groups of people?
+
 Measuring Performance:
 in ML classification: Precision, Recall, F-Scores, Accuracy, etc.
   Measuring errors: Confusion Matrix e.g. (multi-class classification) 
@@ -53,6 +57,8 @@ BIAS:
     - right to an explanation
     - since 70s in France,
 PERCEPTUAL BIAS CAUSED BY PAREIDOLIA
+THERE ARE MANY MORE KINDS OF BIAS
+
 
 
         
