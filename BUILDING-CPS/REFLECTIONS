@@ -78,7 +78,7 @@ Based on the article:
 Amazon scrapped 'sexist AI' tool
 https://www.bbc.com/news/technology-45809919
 
-Introduction (The Problem):
+INTRODUCTION (The Problem):
 
   WHO
     Amazon Company, Females/Male appplicants, article by Reuters originally and this article written by BBC with internal whistleblowers/ engineers who didnt want to be identified.
@@ -87,7 +87,7 @@ Introduction (The Problem):
     This produced a bias in the hiring data which meant that women were seen as less favourable applicants in comparison to men.
   WHEN
     2014 - 2015
-  WHERE
+  WHERE (where are the problems coming from)
     Global hiring practices but I believe based in US
   WHY - 
     Group motivation for the analysis:
@@ -95,28 +95,54 @@ Introduction (The Problem):
     Why this even occured that we are covering:
       Amazon not using AI application best practice procedures to ensure fairness. 
 
-CONFUSION MATRIX: 
 
-| **Actual \ Predicted** | **Predicted Positive**                         | **Predicted Negative**                      |
-|------------------------|:----------------------------------------------:|:-------------------------------------------:|
-| **Actual Positive**    | (True Positive)  WORTH HIRING                  | (False Positive) NOT WORTH HIRING BUT HIRED |
-| **Actual Negative**    | (False Positive)  HIRED BUT NOT WORTH HIRING   | (True Negative) NOT WORTH HIRING            |
-
-
-Analysis:
+ANALYSIS
+  Assessed impact of the system ( formulated as a binary classification problem):
+  
+  Explain how each outcome in one or more confusion matrices could lead to hard or benefit:
+  
+    CONFUSION MATRIX: 
+    
+        | **Actual \ Predicted** | **Predicted Positive**                         | **Predicted Negative**                      |
+        |------------------------|:----------------------------------------------:|:-------------------------------------------:|
+        | **Actual Positive**    | (True Positive)  WORTH HIRING                  | (False Positive) NOT WORTH HIRING BUT HIRED |
+        | **Actual Negative**    | (False Positive)  HIRED BUT NOT WORTH HIRING   | (True Negative) NOT WORTH HIRING            |
+    
+  
   How was it trained:
   What kind of model:
   Evaluation metrics:
   Bias involved:
-
+  
   Why we found it to be unfair: 
 
-Conclusion:
+CONCLUSION:
+
+  Conclusions that I can draw:
+    Where are the problems coming from:
+    Make note on the 'ground truth', that it is complex and fraught to measure and consider what the true positive/negative results are because this is contingent upon all existing biases and the desired outcomes of all involved. 
+    Also note the data gaps. People who are never hired or considered and do not make it into the sample of data at all:
+      in this case, that the data set being used is gendered binary at all. 
+    Do we have the right model?:
+    
+  How do we make sure the model works equally well for different groups of people:
+
+  Recommendations that I can draw: 
+    Best practice 1: 
+      Fairness/ Parity Measure: 
+      Process used to determine this:
+      Trade-offs of this measure:
+
+    Best practice 2: 
+      Fairness/ Parity Measure: 
+      Process used to determine this:
+      Trade-offs of this measure: 
 
 
-1 build confusion matric for your problem
-2 where are the problems coming from 
-3 
+
+
+
+# remember that 'ground truth'  is complex (and fraught) AKA how we measure the world and consider what is a "true" positive or negative result are contingent on existing biases.
         
 (grand truth)
 (data gaps of peoplek who are never interviewed and not hired) (like plane gap)
