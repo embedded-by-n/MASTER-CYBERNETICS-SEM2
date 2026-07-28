@@ -29,5 +29,7 @@ This allows for a feedback looping interface that functions as such:
       4. Personalised training of an AI model. which could help the user to see their own biofeedback based on their personalised data alone. 
       5. Used to trian a model to adjust the baselines averages of actuation thresholds in the watch over time (like the weighted actuation changes in the Pear Pie machine learning) Maybe can reuse the code??
       6. Could also potentially allow the user to choose if they wish to contribute this annonomised information back to an open-source data set for use by other open source tools that will collect biometric data and help to build open-source tools?
-7. 
+
+
+
       
