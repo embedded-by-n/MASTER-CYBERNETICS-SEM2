@@ -28,11 +28,12 @@ THE PROLIFERATION OF FAIRNESS DEFINITIONS ARE TO BE CELEBRATED!
 21 Fairness definitions and their politics:  https://fairmlbook.org/tutorial2.html
   Measuring Fairness:
     Fairness evaluation metrics: e.g. 
-      demographic parity
+        demographic parity
+        equal opportunity,
+        equal accuracy
+        group unaware
+        group thresholds
         
-      equal opportunity
-
-      equal accuracy etc.
 
 
 
