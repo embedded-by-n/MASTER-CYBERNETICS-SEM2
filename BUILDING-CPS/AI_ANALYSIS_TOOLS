@@ -1,0 +1,15 @@
+What-If Tool:
+https://pair-code.github.io/what-if-tool/demos/uci.html
+This demo loads two binary classifiers trained on real US Census data. Each model predicts whether a
+person earns more or less than $50K/year, based on attributes like age, education, occupation, hours
+worked, marital status, race, and sex. The demo lets you compare two differently trained models side
+by side on the same individuals.
+
+COMPAS recidivism risk model:
+https://pair-code.github.io/what-if-tool/demos/compas.html
+This demo loads a classifier that mimics COMPAS, a real risk-assessment tool that has been used by
+US courts to help decide bail, sentencing, and parole. It predicts whether a defendant is Low risk or
+Medium/High risk of reoffending, based on their criminal history and demographics. COMPAS is the
+system at the center of ProPublica's landmark 2016 investigation "Machine Bias" and the Wisconsin
+Supreme Court case State v. Loomis — both essential background if you want to cite real precedent
+in your presentation.
