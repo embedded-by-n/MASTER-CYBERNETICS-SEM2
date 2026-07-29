@@ -315,6 +315,7 @@ IPP TOMORROW
 
 # I had an idea for the research project with Paul Wong to do a Bayesian Composition!!
 
+
 s2w1f1d3c2
 
 MACHINE LEARNING
@@ -324,7 +325,6 @@ MACHINE LEARNING
         SHOWING HOW I TUNED THE HYPER-PARAMETERS OF THE TOOL
             THIS IS ACTUALLY USEFUL TO RUN IN PARALLEL
             
-
 Task 1: The ML Pipeline
     Make sure you have a clear idea of the purpose of each step.
     Present with your CoLab notebook (no slides)
@@ -339,7 +339,33 @@ HUGGING FACE
     some have cost some are free some need API
     also has cloud computing funcitonality
     get a key to use the models here and then put that as the key in the code.
+
+
+Dystopian Coffee Machine Exercise:
+
+    HD Video camera 
+        - type of coffee
+        - put sensors in the machine for button presses on machine interface.
+                (clustered pressed in time range = 
     
+    QR name tag
+        - users
+        - time 
+    
+    Input Specs
+    - HD video camera input
+    - QR nametag input
+    
+    Outputs Formats
+    - model output class probability distribution
+    - 
+    How integrate
+        Raspberry Pi
+            model 3 - 5
+    What dataset
+    Limitations
+    QR tags are a binary representation
+
 
 
 
